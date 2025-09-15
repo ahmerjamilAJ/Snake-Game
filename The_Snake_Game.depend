@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575826518 source:c:\users\ahmer\desktop\study material\computtional problem solving\the_snake_game\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+
